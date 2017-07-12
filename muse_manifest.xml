@@ -1,0 +1,1822 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coffeeLONG.html" resolutions="1x" timestamp="1499784656515">
+  <folder name="css">
+    <file name="site_global.css" crc="4049650753"/>
+    <file name="master_a-master.css" crc="408134798" ref="index:home!-4-việt:home!-402"/>
+    <file name="master_c-master.css" crc="4226309750" ref="drop!:payment-page:sign!:drop!-ur-ideas:coffee!:drop!-story---founders:press!"/>
+    <file name="index.css" crc="3926259741" ref="index"/>
+    <file name="drop_.css" crc="3821105907" ref="drop!"/>
+    <file name="iefonts_drop_.css" crc="502661553" ref="drop!"/>
+    <file name="payment-page.css" crc="3815522439" ref="payment-page"/>
+    <file name="iefonts_payment-page.css" crc="4103834786" ref="payment-page"/>
+    <file name="sign_.css" crc="46089293" ref="sign!"/>
+    <file name="iefonts_sign_.css" crc="3995739269" ref="sign!"/>
+    <file name="drop_-ur-ideas.css" crc="153538991" ref="drop!-ur-ideas"/>
+    <file name="iefonts_drop_-ur-ideas.css" crc="518952398" ref="drop!-ur-ideas"/>
+    <file name="coffee_.css" crc="3834499988" ref="coffee!"/>
+    <file name="iefonts_coffee_.css" crc="4065497238" ref="coffee!"/>
+    <file name="drop_-story---founders.css" crc="400060843" ref="drop!-story---founders"/>
+    <file name="iefonts_drop_-story---founders.css" crc="4139925066" ref="drop!-story---founders"/>
+    <file name="home_-4-vi_t.css" crc="3797111538" ref="home!-4-việt"/>
+    <file name="iefonts_home_-4-vi_t.css" crc="98703538" ref="home!-4-việt"/>
+    <file name="press_.css" crc="399039248" ref="press!"/>
+    <file name="home_-402.css" crc="3991149646" ref="home!-402"/>
+    <file name="iefonts_home_-402.css" crc="4033518585" ref="home!-402"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="462672289"/>
+    <file name="fontawesome-webfont.eot" crc="415170694"/>
+    <file name="fontawesome-webfont.svg" crc="3771442179"/>
+  </folder>
+  <folder name="assets">
+    <file name="boat-behind-album-version-kings-of-convenience.mp3" crc="467092653" seo="true" mt="1497798090000"/>
+    <file name="h264-video_1.mp4" crc="234113361" seo="true" mt="1497689285000"/>
+    <file name="vid_35881205_224157_853.mp4" crc="433495940" seo="true" mt="1497944506000"/>
+    <file name="founders-breakfast-stout--a-wakeup-call---youtube_1.mp4" crc="502703361" seo="true" mt="1499680434000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>black---white-viet:phone>black---white-viet-copy:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:phone>black---white-viet:phone>black---white-viet-copy:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>black---white-viet:phone>black---white-viet-copy:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="museconfig.js" crc="4273287925" ref="phone>index:phone>black---white-viet:phone>black---white-viet-copy:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:phone>black---white-viet:phone>black---white-viet-copy:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="touchswipe.js" crc="4228958816" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="phone>index:phone>sign!:phone>coffee!:phone>payment-page:phone>press!:coffee!:payment-page:sign!:drop!-story---founders:index:drop!:home!-402:home!-4-việt"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="phone>index:phone>drop!-story"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:index:home!-402:home!-4-việt"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>black---white-viet:phone>black---white-viet-copy:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="require.js" crc="85721165" ref="phone>index:phone>black---white-viet:phone>black---white-viet-copy:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="form_check.php" crc="4286608207" ref="phone>sign!:coffee!:payment-page"/>
+    <file name="form_throttle.php" crc="313199896" ref="phone>sign!:coffee!:payment-page"/>
+    <file name="form_process.php" crc="3855659497" ref="phone>sign!:coffee!:payment-page"/>
+    <file name="form-u108770.php" crc="4214162815" ref="phone>sign!"/>
+    <file name="form-u108785.php" crc="77082133" ref="phone>sign!"/>
+    <file name="form-u108861.php" crc="148684241" ref="phone>sign!"/>
+    <file name="form-u116517.php" crc="259192665" ref="phone>drop!-your-ideas"/>
+    <file name="form-u111616.php" crc="4015076500" ref="phone>payment-page"/>
+    <file name="form-u41443.php" crc="517550020" ref="coffee!"/>
+    <file name="form-u41462.php" crc="3842270813" ref="coffee!"/>
+    <file name="form-u65178.php" crc="3874422848" ref="coffee!"/>
+    <file name="form-u64911.php" crc="56015838" ref="coffee!"/>
+    <file name="form-u69883.php" crc="486868944" ref="coffee!"/>
+    <file name="form-u70754.php" crc="519886029" ref="coffee!"/>
+    <file name="form-u70921.php" crc="434410816" ref="coffee!"/>
+    <file name="form-u71069.php" crc="4234228062" ref="coffee!"/>
+    <file name="form-u69936.php" crc="319625235" ref="coffee!"/>
+    <file name="form-u71162.php" crc="3765021298" ref="coffee!"/>
+    <file name="form-u71363.php" crc="77957381" ref="coffee!"/>
+    <file name="form-u71564.php" crc="4043483030" ref="coffee!"/>
+    <file name="form-u72662.php" crc="4253483197" ref="coffee!"/>
+    <file name="form-u72546.php" crc="3845498105" ref="coffee!"/>
+    <file name="form-u72573.php" crc="14005948" ref="coffee!"/>
+    <file name="form-u72596.php" crc="182112368" ref="coffee!"/>
+    <file name="form-u72616.php" crc="4198583277" ref="coffee!"/>
+    <file name="form-u72638.php" crc="432114796" ref="coffee!"/>
+    <file name="form-u72816.php" crc="4033944487" ref="coffee!"/>
+    <file name="form-u72791.php" crc="3990412139" ref="coffee!"/>
+    <file name="form-u72741.php" crc="524171425" ref="coffee!"/>
+    <file name="form-u72689.php" crc="4291059969" ref="coffee!"/>
+    <file name="form-u72712.php" crc="437398523" ref="coffee!"/>
+    <file name="form-u72769.php" crc="393843502" ref="coffee!"/>
+    <file name="form-u78667.php" crc="126126205" ref="payment-page"/>
+    <file name="form-u60104.php" crc="3954684564" ref="payment-page"/>
+    <file name="form-u80113.php" crc="120908096" ref="sign!"/>
+    <file name="form-u80204.php" crc="46794814" ref="sign!"/>
+    <file name="form-u80422.php" crc="489228122" ref="sign!"/>
+    <file name="form-u80251.php" crc="435089763" ref="sign!"/>
+    <file name="form-u79801.php" crc="522387833" ref="sign!"/>
+    <file name="form-u79861.php" crc="4207585706" ref="sign!"/>
+    <file name="form-u79933.php" crc="3779943789" ref="sign!"/>
+    <file name="form-u82189.php" crc="193950572" ref="drop!-ur-ideas"/>
+  </folder>
+  <folder name="images">
+    <file name="33644662bwcafe-crop-u89123.jpg" crc="362427328" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>sign!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt"/>
+    <file name="coffee_shop-crop-u89125.jpg" crc="409406421" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_2332 costandinos truth coffee roasters cape town b w -crop-u89119.jpg" crc="3917174802" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coffee.gif" crc="3885254704" seo="true" ref="phone>index:index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:coffee!:index:drop!:home!-402:home!-4-việt"/>
+    <file name="u89143-5.png" crc="3971853541" ref="phone>index"/>
+    <file name="pasted-svg-565093x556.svg" crc="202573067" seo="true" ref="home!-402">
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="drop!-story---founders" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="drop!-ur-ideas" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="u89451-4.png" crc="4040184637" ref="phone>index"/>
+    <file name="untitled-2.gif" crc="330347399" seo="true" ref="phone>index:index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="u92199-4.png" crc="4286520886" ref="phone>index"/>
+    <file name="707e794762e28f957ad4a32c38c14ad8.jpg" crc="438364071" seo="true" ref="phone>index:index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="cece1f961b8c8c33466bb2aad603694c.jpg" crc="49705248" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6730276ad6fc1c42f23d8ebd3a75bf56.jpg" crc="88293089" seo="true" ref="phone>index:index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="dfc7bf1d562d8cc0c3648e26d7760fbf.jpg" crc="144383108" seo="true" ref="phone>index:index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="vgiketfntyclnjem.jpg" crc="3998220998" seo="true" ref="phone>index:index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="u91157-4.png" crc="311654908" ref="phone>index"/>
+    <file name="u91158-4.png" crc="190337266" ref="phone>index"/>
+    <file name="u91208-4.png" crc="418921283" ref="phone>index"/>
+    <file name="u91209-4.png" crc="3948984875" ref="phone>index"/>
+    <file name="u92343.png" crc="3800083061" ref="phone>index"/>
+    <file name="u92343-r.png" crc="407369661" ref="phone>index"/>
+    <file name="u92343-m.png" crc="407369661" ref="phone>index"/>
+    <file name="mi-bl808_commod_g_20111019182724-u92343-a.png" crc="4236031094" ref="phone>index"/>
+    <file name="mi-bl808_commod_g_20111019182724-u92345-3.png" crc="3795013198" ref="phone>index"/>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h7_czqg-u92586-4-a-fr.jpg" crc="4034606455" ref="phone>index"/>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h5_dhja-u92616-3.png" crc="3966439013" ref="phone>index"/>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h5_dhja-u92600-4-a-fr.jpg" crc="66805673" ref="phone>index"/>
+    <file name="images895982_hi_nh_11__4_-u92619-3.png" crc="4044605325" ref="phone>index"/>
+    <file name="mi-bl808_commod_g_20111019182724-u92727-3.png" crc="91003930" ref="phone>index"/>
+    <file name="u92895-4.png" crc="451854140" ref="phone>index"/>
+    <file name="cake orblack-crop-u92986.jpg" crc="3844618025" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cake or-crop-u92988.jpg" crc="202603667" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fruit-pyramidblack-crop-u92997.jpg" crc="3949259938" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fruit-pyramid-crop-u92995.jpg" crc="3773008266" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ice creamblack-crop-u93057.jpg" crc="3798987394" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ice cream-crop-u93055.jpg" crc="3999786165" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_26636_cc.png" crc="213770967" seo="true" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="drop!-story---founders" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="drop!-ur-ideas" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="noun_883175_cc.png" crc="3926732433" seo="true" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="drop!-story---founders" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="drop!-ur-ideas" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="noun_867820_cc.png" crc="102858278" seo="true" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="drop!-story---founders" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="drop!-ur-ideas" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="twitter.png" crc="77716415" seo="true" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-402:home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="drop!-story---founders" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="drop!-ur-ideas" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="u93053.png" crc="251691934" ref="phone>index"/>
+    <file name="u92993.png" crc="251691934" ref="phone>index"/>
+    <file name="584202625-u92990-fr.jpg" crc="327923708" ref="phone>index"/>
+    <file name="3pstprif-u92982-fr.jpg" crc="4034171847" ref="phone>index"/>
+    <file name="32267-fx-8-0-4-0-0-0-u92984-fr.jpg" crc="3887718452" ref="phone>index"/>
+    <file name="b7976eff7b07e92525c4814239c95d44-crop-u93028.jpg" crc="391541147" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images895982_hi_nh_11__4_-crop-u93008.jpg" crc="224014319" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1420-crop-u93047.jpg" crc="4023625075" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mi-bl808_commod_g_20111019182724-crop-u93017.jpg" crc="4170097553" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h7_czqg-crop-u93001.jpg" crc="292933910" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tumblr_n1rtd69xgv1r308q8o1_1280-crop-u108707.jpg" crc="105708097" seo="true" ref="phone>sign!">
+      <caption webpage="sign!" alt=""/>
+    </file>
+    <file name="u108710-6.png" crc="4236832161" ref="phone>sign!"/>
+    <file name="u108711-4.png" crc="108401470" ref="phone>sign!"/>
+    <file name="layer 1.png" crc="289047748" seo="true" ref="phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:sign!">
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="google (1).png" crc="493751391" seo="true" ref="phone>sign!">
+      <caption webpage="sign!" alt=""/>
+    </file>
+    <file name="u108796-fs.png" crc="3972647695" ref="phone>sign!"/>
+    <file name="u108797-fse.png" crc="194195352" ref="phone>sign!"/>
+    <file name="u108791-fss.png" crc="4277094059" ref="phone>sign!"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="phone>sign!:coffee!:sign!">
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="phone>sign!:coffee!:sign!">
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="phone>sign!:coffee!:sign!">
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="phone>sign!:coffee!:sign!">
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="phone>sign!:coffee!:sign!">
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="phone>sign!:coffee!:sign!">
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u111462.png" crc="251691934" ref="phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!"/>
+    <file name="u111461.png" crc="251691934" ref="phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!"/>
+    <file name="584202625.jpg" crc="394778610" ref="phone>sign!:index:home!-402">
+      <caption webpage="index" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="3pstprif.jpg" crc="4208706685" ref="phone>sign!:index:home!-402">
+      <caption webpage="index" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0.jpg" crc="122335716" ref="phone>sign!:index:home!-402">
+      <caption webpage="index" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="b7976eff7b07e92525c4814239c95d44-crop-u111447.jpg" crc="391541147" seo="true" ref="phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!">
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="images895982_hi_nh_11__4_-crop-u111454.jpg" crc="224014319" seo="true" ref="phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!">
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="img_1420-crop-u111452.jpg" crc="4023625075" seo="true" ref="phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!">
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="mi-bl808_commod_g_20111019182724-crop-u111456.jpg" crc="4170097553" seo="true" ref="phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!">
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h7_czqg-crop-u111449.jpg" crc="292933910" seo="true" ref="phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!">
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="tumblr_n1rtd69xgv1r308q8o1_1280-crop-u93514.jpg" crc="105708097" seo="true" ref="phone>drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="u93254-4.png" crc="429721731" ref="phone>drop!"/>
+    <file name="u93255-4.png" crc="108401470" ref="phone>drop!"/>
+    <file name="comp cc asset-crop-u93350.jpg" crc="3897977527" seo="true" ref="phone>drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="u93352-4.png" crc="3879136311" ref="phone>drop!"/>
+    <file name="comp-cc-assetsvgwrapper.svg" crc="520517118" seo="true" ref="phone>drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="comp cc assetsvgwrapper_poster_.png" crc="4021809951" ref="phone>drop!"/>
+    <file name="u93355-8.png" crc="363033627" ref="phone>drop!"/>
+    <file name="comp cc asset-crop-u93356.jpg" crc="314812877" seo="true" ref="phone>drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="tumblr_n1rtd69xgv1r308q8o1_1280-crop-u111015.jpg" crc="105708097" seo="true" ref="phone>drop!-story">
+      <caption webpage="drop!-story" alt=""/>
+    </file>
+    <file name="u111018-4.png" crc="345309761" ref="phone>drop!-story"/>
+    <file name="u111019-4.png" crc="108401470" ref="phone>drop!-story"/>
+    <file name="709113071380x260.jpg" crc="4099180313" seo="true" ref="phone>drop!-story">
+      <caption webpage="drop!-story" alt=""/>
+    </file>
+    <file name="u111037-5.png" crc="3972725644" ref="phone>drop!-story"/>
+    <file name="2017-07-09 053842 1-u111370.png" crc="25159971" ref="phone>drop!-story"/>
+    <file name="2017-07-09 053842 1-u111370-r.png" crc="25159971" ref="phone>drop!-story"/>
+    <file name="2017-07-09 053842 1-u111370-m.png" crc="25159971" ref="phone>drop!-story"/>
+    <file name="2017-07-09 053842 1-u111370-a.png" crc="3784347777" ref="phone>drop!-story"/>
+    <file name="u111369-11.png" crc="4191106633" ref="phone>drop!-story"/>
+    <file name="cong anh 2-u111347.png" crc="333074840" ref="phone>drop!-story"/>
+    <file name="cong anh 2-u111347-r.png" crc="333074840" ref="phone>drop!-story"/>
+    <file name="cong anh 2-u111347-m.png" crc="333074840" ref="phone>drop!-story"/>
+    <file name="cong anh 2-u111347-a.png" crc="383623336" ref="phone>drop!-story"/>
+    <file name="u111349-11.png" crc="4191106633" ref="phone>drop!-story"/>
+    <file name="han 2-u111286.png" crc="330423632" ref="phone>drop!-story"/>
+    <file name="han 2-u111286-r.png" crc="330423632" ref="phone>drop!-story"/>
+    <file name="han 2-u111286-m.png" crc="330423632" ref="phone>drop!-story"/>
+    <file name="han 2-u111286-a.png" crc="3888809339" ref="phone>drop!-story"/>
+    <file name="u111288-11.png" crc="4191106633" ref="phone>drop!-story"/>
+    <file name="2017-07-09 053807 1-u111267.png" crc="3787492492" ref="phone>drop!-story"/>
+    <file name="2017-07-09 053807 1-u111267-r.png" crc="3787492492" ref="phone>drop!-story"/>
+    <file name="2017-07-09 053807 1-u111267-m.png" crc="3787492492" ref="phone>drop!-story"/>
+    <file name="2017-07-09 053807 1-u111267-a.png" crc="4210507482" ref="phone>drop!-story"/>
+    <file name="u111266-11.png" crc="4191106633" ref="phone>drop!-story"/>
+    <file name="thuong 2-u111119.png" crc="4235407641" ref="phone>drop!-story"/>
+    <file name="thuong 2-u111119-r.png" crc="4235407641" ref="phone>drop!-story"/>
+    <file name="thuong 2-u111119-m.png" crc="4235407641" ref="phone>drop!-story"/>
+    <file name="thuong 2-u111119-a.png" crc="25230874" ref="phone>drop!-story"/>
+    <file name="u111177-11.png" crc="4191106633" ref="phone>drop!-story"/>
+    <file name="loc 2-u111203.png" crc="376734311" ref="phone>drop!-story"/>
+    <file name="loc 2-u111203-r.png" crc="376734311" ref="phone>drop!-story"/>
+    <file name="loc 2-u111203-m.png" crc="376734311" ref="phone>drop!-story"/>
+    <file name="loc 2-u111203-a.png" crc="264609248" ref="phone>drop!-story"/>
+    <file name="u111205-11.png" crc="4191106633" ref="phone>drop!-story"/>
+    <file name="tumblr_n1rtd69xgv1r308q8o1_1280-crop-u116454.jpg" crc="105708097" seo="true" ref="phone>drop!-your-ideas">
+      <caption webpage="drop!-your-ideas" alt=""/>
+    </file>
+    <file name="u116457-4.png" crc="469864588" ref="phone>drop!-your-ideas"/>
+    <file name="u116458-4.png" crc="108401470" ref="phone>drop!-your-ideas"/>
+    <file name="u116525.png" crc="3770584710" ref="phone>drop!-your-ideas"/>
+    <file name="u116525-ferr.png" crc="4186945943" ref="phone>drop!-your-ideas"/>
+    <file name="tumblr_n1rtd69xgv1r308q8o1_1280-crop-u93389.jpg" crc="4279800506" seo="true" ref="phone>coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u93391-4.png" crc="3762418244" ref="phone>coffee!"/>
+    <file name="u93392-4.png" crc="348758470" ref="phone>coffee!"/>
+    <file name="9c3c1adc8563e81b820fb42cc36d5bd1-u93440-fr.png" crc="3892489695" ref="phone>coffee!"/>
+    <file name="9c3c1adc8563e81b820fb42cc36d5bd1-u93440-r-fr.png" crc="300719912" ref="phone>coffee!"/>
+    <file name="9c3c1adc8563e81b820fb42cc36d5bd1.jpg" crc="525690802" ref="phone>coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="cake ex-u95287-fr.png" crc="485735953" ref="phone>coffee!"/>
+    <file name="cake ex.jpg" crc="4047871132" ref="phone>coffee!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="coffee 2-crop-u93393.png" crc="295037957" seo="true" ref="phone>coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u93869-7.png" crc="3907949572" ref="phone>coffee!"/>
+    <file name="coffee1.png" crc="282733055" seo="true" ref="phone>coffee!:phone>payment-page:coffee!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+    </file>
+    <file name="u93945-7.png" crc="3907949572" ref="phone>coffee!"/>
+    <file name="coffee 3-crop-u93667.png" crc="4248654132" seo="true" ref="phone>coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u111604-7.png" crc="3907949572" ref="phone>coffee!"/>
+    <file name="coffee 4-crop-u93711.png" crc="3760793188" seo="true" ref="phone>coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u94373-7.png" crc="3907949572" ref="phone>coffee!"/>
+    <file name="u95186-7.png" crc="3907949572" ref="phone>coffee!"/>
+    <file name="coffee 3.png" crc="530776197" seo="true" ref="phone>coffee!:phone>payment-page:coffee!:payment-page:index:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+    </file>
+    <file name="u95283-7.png" crc="3907949572" ref="phone>coffee!"/>
+    <file name="pasted image 305x305.jpg" crc="3784457548" seo="true" ref="phone>coffee!:coffee!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u95344-7.png" crc="3907949572" ref="phone>coffee!"/>
+    <file name="pasted image 305x3052.jpg" crc="3798611326" seo="true" ref="phone>coffee!:coffee!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u95407-7.png" crc="3907949572" ref="phone>coffee!"/>
+    <file name="pasted image 305x3053.jpg" crc="3931356715" seo="true" ref="phone>coffee!:coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u111583-7.png" crc="3907949572" ref="phone>coffee!"/>
+    <file name="pasted image 305x3054.jpg" crc="91498089" seo="true" ref="phone>coffee!:coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u95535-7.png" crc="3907949572" ref="phone>coffee!"/>
+    <file name="u115411.png" crc="14472726" ref="phone>coffee!"/>
+    <file name="u115411-r.png" crc="4254352469" ref="phone>coffee!"/>
+    <file name="u115425.png" crc="4217552224" ref="phone>coffee!"/>
+    <file name="u115425-r.png" crc="497904667" ref="phone>coffee!"/>
+    <file name="u115419.png" crc="10873491" ref="phone>coffee!"/>
+    <file name="u115419-r.png" crc="4239483518" ref="phone>coffee!"/>
+    <file name="u115414.png" crc="4269449181" ref="phone>coffee!"/>
+    <file name="u115414-m.png" crc="3792375805" ref="phone>coffee!"/>
+    <file name="coffee 2.png" crc="4072969507" seo="true" ref="phone>coffee!:phone>payment-page:coffee!:payment-page:index:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+    </file>
+    <file name="u115423.png" crc="4245848189" ref="phone>coffee!"/>
+    <file name="u115423-m.png" crc="524020953" ref="phone>coffee!"/>
+    <file name="u115412-4.png" crc="240678770" ref="phone>coffee!"/>
+    <file name="u115410-4.png" crc="277042625" ref="phone>coffee!"/>
+    <file name="tumblr_n1rtd69xgv1r308q8o1_1280-crop-u111712.jpg" crc="105708097" seo="true" ref="phone>payment-page">
+      <caption webpage="payment-page" alt=""/>
+    </file>
+    <file name="u111715-6.png" crc="4072119380" ref="phone>payment-page"/>
+    <file name="u111716-4.png" crc="108401470" ref="phone>payment-page"/>
+    <file name="u111630-4.png" crc="99557539" ref="phone>payment-page"/>
+    <file name="u111631-4.png" crc="390848446" ref="phone>payment-page"/>
+    <file name="u111632-4.png" crc="3826761893" ref="phone>payment-page"/>
+    <file name="u111634-4.png" crc="483910875" ref="phone>payment-page"/>
+    <file name="u111635-4.png" crc="179294501" ref="phone>payment-page"/>
+    <file name="u111636-4.png" crc="4027116659" ref="phone>payment-page"/>
+    <file name="starbucksfarm_126176782-u111615-fr.jpg" crc="235289981" ref="phone>payment-page"/>
+    <file name="u111614.png" crc="347917192" ref="phone>payment-page"/>
+    <file name="u111614-r.png" crc="347917192" ref="phone>payment-page"/>
+    <file name="u111617.png" crc="509851547" ref="phone>payment-page"/>
+    <file name="u111617-r.png" crc="4187030601" ref="phone>payment-page"/>
+    <file name="u111617-m.png" crc="404495555" ref="phone>payment-page"/>
+    <file name="u111617-fs.png" crc="458005374" ref="phone>payment-page"/>
+    <file name="u111628.png" crc="4274698620" ref="phone>payment-page"/>
+    <file name="u111628-ferr.png" crc="433510609" ref="phone>payment-page"/>
+    <file name="u111774-4.png" crc="3759074206" ref="phone>payment-page"/>
+    <file name="u111746-4.png" crc="3848756203" ref="phone>payment-page"/>
+    <file name="u111748-4.png" crc="70980289" ref="phone>payment-page"/>
+    <file name="u111793.png" crc="3823441627" ref="phone>payment-page"/>
+    <file name="u111793-m.png" crc="125426591" ref="phone>payment-page"/>
+    <file name="u111792-4.png" crc="961764" ref="phone>payment-page"/>
+    <file name="u111798-4.png" crc="479341140" ref="phone>payment-page"/>
+    <file name="u111788-4.png" crc="4076164747" ref="phone>payment-page"/>
+    <file name="coffee 4.png" crc="402129990" seo="true" ref="phone>payment-page:coffee!:payment-page">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+    </file>
+    <file name="u111994.png" crc="3823441627" ref="phone>payment-page"/>
+    <file name="u111994-m.png" crc="125426591" ref="phone>payment-page"/>
+    <file name="u111992-4.png" crc="961764" ref="phone>payment-page"/>
+    <file name="u111997-4.png" crc="479341140" ref="phone>payment-page"/>
+    <file name="u111993-4.png" crc="4076164747" ref="phone>payment-page"/>
+    <file name="u112091.png" crc="3823441627" ref="phone>payment-page"/>
+    <file name="u112091-m.png" crc="125426591" ref="phone>payment-page"/>
+    <file name="u112089-4.png" crc="961764" ref="phone>payment-page"/>
+    <file name="u112088-4.png" crc="479341140" ref="phone>payment-page"/>
+    <file name="u112090-4.png" crc="4076164747" ref="phone>payment-page"/>
+    <file name="u112274.png" crc="3823441627" ref="phone>payment-page"/>
+    <file name="u112274-m.png" crc="125426591" ref="phone>payment-page"/>
+    <file name="u112272-4.png" crc="961764" ref="phone>payment-page"/>
+    <file name="u112271-4.png" crc="479341140" ref="phone>payment-page"/>
+    <file name="u112273-4.png" crc="4076164747" ref="phone>payment-page"/>
+    <file name="u112227.png" crc="3823441627" ref="phone>payment-page"/>
+    <file name="u112227-m.png" crc="125426591" ref="phone>payment-page"/>
+    <file name="u112224-4.png" crc="961764" ref="phone>payment-page"/>
+    <file name="u112221-4.png" crc="479341140" ref="phone>payment-page"/>
+    <file name="u112228-4.png" crc="4076164747" ref="phone>payment-page"/>
+    <file name="tumblr_n1rtd69xgv1r308q8o1_1280-crop-u119563.jpg" crc="105708097" seo="true" ref="phone>press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u119566-4.png" crc="3813401147" ref="phone>press!"/>
+    <file name="u119567-4.png" crc="108401470" ref="phone>press!"/>
+    <file name="the press.gif" crc="4153581897" seo="true" ref="phone>press!:press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u119568-4.png" crc="29367402" ref="phone>press!"/>
+    <file name="6d21f818529a4b44d74622930e75034e-u118642-fr.png" crc="452745620" ref="phone>press!"/>
+    <file name="6d21f818529a4b44d74622930e75034e-u118642-r-fr.jpg" crc="520170445" ref="phone>press!"/>
+    <file name="6d21f818529a4b44d74622930e75034e-crop-u118947.jpg" crc="4223226824" seo="true" ref="phone>press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u118946-4.png" crc="4194392438" ref="phone>press!"/>
+    <file name="drip coffee1-crop-u119622.png" crc="4251485914" seo="true" ref="phone>press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u119620-4.png" crc="4194392438" ref="phone>press!"/>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u119710.jpg" crc="3921413049" seo="true" ref="phone>press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u119708-4.png" crc="4194392438" ref="phone>press!"/>
+    <file name="cappuccino cof art-crop-u119687.png" crc="4009649473" seo="true" ref="phone>press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u119690-4.png" crc="4194392438" ref="phone>press!"/>
+    <file name="coffee 1-crop-u119753.jpg" crc="3901365159" seo="true" ref="phone>press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u119752-4.png" crc="4194392438" ref="phone>press!"/>
+    <file name="3pstprif-crop-u119729.jpg" crc="4166014914" seo="true" ref="phone>press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u119734-4.png" crc="4194392438" ref="phone>press!"/>
+    <file name="espresso-big-crop-u119797.png" crc="4090762691" seo="true" ref="phone>press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u119796-4.png" crc="4194392438" ref="phone>press!"/>
+    <file name="shop.gif" crc="181009240" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="coffee 3-u41442-fr.png" crc="9306340" ref="coffee!"/>
+    <file name="u41441-4.png" crc="4121543366" ref="coffee!"/>
+    <file name="u41456-r.png" crc="136304780" ref="coffee!"/>
+    <file name="u41456-a.png" crc="447265437" ref="coffee!"/>
+    <file name="drip coffee190x96.png" crc="317437836" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u41458.png" crc="97436318" ref="coffee!"/>
+    <file name="u41458-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u41458-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="coffee 2-u41482-fr.png" crc="8185879" ref="coffee!"/>
+    <file name="u41479-4.png" crc="361082973" ref="coffee!"/>
+    <file name="u41475-r.png" crc="136304780" ref="coffee!"/>
+    <file name="u41475-a.png" crc="447265437" ref="coffee!"/>
+    <file name="u41476.png" crc="97436318" ref="coffee!"/>
+    <file name="u41476-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u41476-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="u65169-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u65170-12.png" crc="3759909110" ref="coffee!"/>
+    <file name="u65176-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u65184.png" crc="508393665" ref="coffee!"/>
+    <file name="u65184-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u65184-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u65184-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u65188.png" crc="39246514" ref="coffee!"/>
+    <file name="u65188-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="starbucksfarm_126176782.jpg" crc="131007979" seo="true" ref="coffee!:drop!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="b7976eff7b07e92525c4814239c95d44.jpg" crc="123751523" seo="true" ref="coffee!:drop!-ur-ideas">
+      <caption webpage="drop!-ur-ideas" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="images895982_hi_nh_11__4_-crop-u68222.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u68208.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="b7976eff7b07e92525c4814239c95d44168x112.jpg" crc="4146753653" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="images895982_hi_nh_11__4_150x112.jpg" crc="4274869783" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u64902-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u64903-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u64908-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u64912.png" crc="508393665" ref="coffee!"/>
+    <file name="u64912-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u64912-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u64912-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u64914.png" crc="39246514" ref="coffee!"/>
+    <file name="u64914-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="images895982_hi_nh_11__4_-crop-u68089.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u68075.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="americano red.png" crc="32913376" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u69897-4.png" crc="361082973" ref="coffee!"/>
+    <file name="u69901-r.png" crc="136304780" ref="coffee!"/>
+    <file name="u69901-a.png" crc="447265437" ref="coffee!"/>
+    <file name="u69896.png" crc="97436318" ref="coffee!"/>
+    <file name="u69896-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u69896-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="u70773-4.png" crc="361082973" ref="coffee!"/>
+    <file name="u70752-r.png" crc="136304780" ref="coffee!"/>
+    <file name="u70752-a.png" crc="447265437" ref="coffee!"/>
+    <file name="u70772.png" crc="97436318" ref="coffee!"/>
+    <file name="u70772-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u70772-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="u70920-4.png" crc="361082973" ref="coffee!"/>
+    <file name="u70910-r.png" crc="136304780" ref="coffee!"/>
+    <file name="u70910-a.png" crc="447265437" ref="coffee!"/>
+    <file name="u70915.png" crc="97436318" ref="coffee!"/>
+    <file name="u70915-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u70915-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="u71084-4.png" crc="361082973" ref="coffee!"/>
+    <file name="u71086-r.png" crc="136304780" ref="coffee!"/>
+    <file name="u71086-a.png" crc="447265437" ref="coffee!"/>
+    <file name="u71091.png" crc="97436318" ref="coffee!"/>
+    <file name="u71091-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u71091-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="u69949-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u69998-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u69952-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u69943.png" crc="508393665" ref="coffee!"/>
+    <file name="u69943-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u69943-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u69943-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u69946.png" crc="39246514" ref="coffee!"/>
+    <file name="u69946-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="images895982_hi_nh_11__4_-crop-u69967.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u69976.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u71153-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u71154-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u71157-4.png" crc="19002107" ref="coffee!"/>
+    <file name="u71156-4.png" crc="279815616" ref="coffee!"/>
+    <file name="u71161-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u71168.png" crc="508393665" ref="coffee!"/>
+    <file name="u71168-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u71168-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u71168-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u71172.png" crc="39246514" ref="coffee!"/>
+    <file name="u71172-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="images895982_hi_nh_11__4_-crop-u71206.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u71195.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u71354-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u71355-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u71358-4.png" crc="19002107" ref="coffee!"/>
+    <file name="u71357-4.png" crc="279815616" ref="coffee!"/>
+    <file name="u71362-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u71369.png" crc="508393665" ref="coffee!"/>
+    <file name="u71369-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u71369-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u71369-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u71373.png" crc="39246514" ref="coffee!"/>
+    <file name="u71373-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="images895982_hi_nh_11__4_-crop-u71407.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u71396.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u71555-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u71556-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u71559-4.png" crc="19002107" ref="coffee!"/>
+    <file name="u71558-4.png" crc="279815616" ref="coffee!"/>
+    <file name="u71563-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u71570.png" crc="508393665" ref="coffee!"/>
+    <file name="u71570-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u71570-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u71570-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u71574.png" crc="39246514" ref="coffee!"/>
+    <file name="u71574-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="images895982_hi_nh_11__4_-crop-u71608.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u71597.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72675-4.png" crc="4245630830" ref="coffee!"/>
+    <file name="u72679.png" crc="97436318" ref="coffee!"/>
+    <file name="u72679-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u72679-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="ice cream ex.jpg" crc="284643995" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="pasted image 305x305-crop-u72677.jpg" crc="3866303173" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72681-r.png" crc="3888891189" ref="coffee!"/>
+    <file name="u72564-4.png" crc="4087238054" ref="coffee!"/>
+    <file name="u72565.png" crc="97436318" ref="coffee!"/>
+    <file name="u72565-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u72565-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="pasted image 305x305-crop-u72561.jpg" crc="4119324572" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72560-r.png" crc="3888891189" ref="coffee!"/>
+    <file name="u72571-4.png" crc="3765571107" ref="coffee!"/>
+    <file name="u72569.png" crc="97436318" ref="coffee!"/>
+    <file name="u72569-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u72569-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="pasted image 305x305-crop-u72586.jpg" crc="402182621" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72589-r.png" crc="3888891189" ref="coffee!"/>
+    <file name="u72609-4.png" crc="4212600116" ref="coffee!"/>
+    <file name="u72594.png" crc="97436318" ref="coffee!"/>
+    <file name="u72594-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u72594-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="pasted image 305x305-crop-u72592.jpg" crc="4009716884" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72612-r.png" crc="3888891189" ref="coffee!"/>
+    <file name="u72615-4.png" crc="3992485167" ref="coffee!"/>
+    <file name="u72629.png" crc="97436318" ref="coffee!"/>
+    <file name="u72629-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u72629-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="pasted image 305x305-crop-u72633.jpg" crc="4000718533" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72630-r.png" crc="3888891189" ref="coffee!"/>
+    <file name="u72651-4.png" crc="4066207073" ref="coffee!"/>
+    <file name="u72654.png" crc="97436318" ref="coffee!"/>
+    <file name="u72654-r.png" crc="4241329295" ref="coffee!"/>
+    <file name="u72654-a.png" crc="4241329295" ref="coffee!"/>
+    <file name="pasted image 305x305-crop-u72657.jpg" crc="4073452825" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72655-r.png" crc="3888891189" ref="coffee!"/>
+    <file name="u72833-8.png" crc="248543849" ref="coffee!"/>
+    <file name="u72837-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u72832-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u72828.png" crc="508393665" ref="coffee!"/>
+    <file name="u72828-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u72828-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u72828-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u72826.png" crc="39246514" ref="coffee!"/>
+    <file name="u72826-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="images895982_hi_nh_11__4_-crop-u73609.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u73602.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72805-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u72790-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u72807-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u72796.png" crc="508393665" ref="coffee!"/>
+    <file name="u72796-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u72796-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u72796-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u72801.png" crc="39246514" ref="coffee!"/>
+    <file name="u72801-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="images895982_hi_nh_11__4_-crop-u73496.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u73482.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72762-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u72761-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u72758-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u72745.png" crc="508393665" ref="coffee!"/>
+    <file name="u72745-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u72745-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u72745-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u72751.png" crc="39246514" ref="coffee!"/>
+    <file name="u72751-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="pasted image 305x3055.jpg" crc="117872558" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="images895982_hi_nh_11__4_-crop-u64556.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u64544.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72688-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u72687-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u72704-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u72692.png" crc="508393665" ref="coffee!"/>
+    <file name="u72692-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u72692-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u72692-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u72700.png" crc="39246514" ref="coffee!"/>
+    <file name="u72700-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="images895982_hi_nh_11__4_-crop-u74059.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u74047.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72730-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u72736-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u72727-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u72718.png" crc="508393665" ref="coffee!"/>
+    <file name="u72718-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u72718-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u72718-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u72723.png" crc="39246514" ref="coffee!"/>
+    <file name="u72723-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="pasted image 305x3056.jpg" crc="3837190581" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="images895982_hi_nh_11__4_-crop-u74203.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u74191.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u72788-6.png" crc="347499973" ref="coffee!"/>
+    <file name="u72768-12.png" crc="317115002" ref="coffee!"/>
+    <file name="u72783-6.png" crc="4219812097" ref="coffee!"/>
+    <file name="u72780.png" crc="508393665" ref="coffee!"/>
+    <file name="u72780-r.png" crc="95523863" ref="coffee!"/>
+    <file name="u72780-m.png" crc="3807010688" ref="coffee!"/>
+    <file name="u72780-fs.png" crc="61221547" ref="coffee!"/>
+    <file name="u72774.png" crc="39246514" ref="coffee!"/>
+    <file name="u72774-ferr.png" crc="108267525" ref="coffee!"/>
+    <file name="images895982_hi_nh_11__4_-crop-u73915.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u73903.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="drawing1.jpg" crc="506173733" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u39809.png" crc="4130612700" ref="coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:drop!"/>
+    <file name="u39812.png" crc="4130612700" ref="coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:drop!"/>
+    <file name="u60160.png" crc="14472726" ref="coffee!"/>
+    <file name="u60160-r.png" crc="4254352469" ref="coffee!"/>
+    <file name="u60167.png" crc="4217552224" ref="coffee!"/>
+    <file name="u60167-r.png" crc="497904667" ref="coffee!"/>
+    <file name="u60205.png" crc="10873491" ref="coffee!"/>
+    <file name="u60205-r.png" crc="4239483518" ref="coffee!"/>
+    <file name="u60286.png" crc="4269449181" ref="coffee!"/>
+    <file name="u60286-m.png" crc="3792375805" ref="coffee!"/>
+    <file name="u60232.png" crc="4245848189" ref="coffee!"/>
+    <file name="u60232-m.png" crc="524020953" ref="coffee!"/>
+    <file name="u60298-4.png" crc="240678770" ref="coffee!"/>
+    <file name="u60304-4.png" crc="277042625" ref="coffee!"/>
+    <file name="images895982_hi_nh_11__4_-crop-u73747.jpg" crc="208401881" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u73740.jpg" crc="4009026774" seo="true" ref="coffee!">
+      <caption webpage="coffee!" alt=""/>
+    </file>
+    <file name="u50886-4.png" crc="30254440" ref="press!"/>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u51248.jpg" crc="3986867769" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="peace-coffee-c-fr-mtpmcg312-sm-5067-crop-u51258.jpg" crc="303602514" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u51257-10.png" crc="3966354105" ref="press!"/>
+    <file name="tumblr_n1rtd69xgv1r308q8o1_1280-crop-u50921.jpg" crc="4214394899" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u50923-10.png" crc="3966354105" ref="press!"/>
+    <file name="download-crop-u54196.jpg" crc="323462445" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u54195-10.png" crc="3966354105" ref="press!"/>
+    <file name="angry-trout-b-fr-mptmcg611-sm-9291.jpg" crc="3994279052" seo="true" ref="press!:drop!">
+      <caption webpage="press!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="coffee-drop 1-crop-u50908.jpg" crc="215754554" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u50910-a.png" crc="3817656048" ref="press!"/>
+    <file name="coffee 1-crop-u50898.jpg" crc="4196001909" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u50903.jpg" crc="4159300313" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u54147.jpg" crc="4159300313" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u54185.jpg" crc="4159300313" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="coffee-shop-black-and-white-crop-u55006.jpg" crc="69394955" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u55008-10.png" crc="3966354105" ref="press!"/>
+    <file name="peace-coffee-c-fr-mtpmcg312-sm-5067-crop-u55010.jpg" crc="303602514" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u55012-10.png" crc="3966354105" ref="press!"/>
+    <file name="tumblr_n1rtd69xgv1r308q8o1_1280-crop-u54998.jpg" crc="4214394899" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u55000-10.png" crc="3966354105" ref="press!"/>
+    <file name="download-crop-u54994.jpg" crc="323462445" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u54996-10.png" crc="3966354105" ref="press!"/>
+    <file name="coffee-drop 1-crop-u54979.jpg" crc="215754554" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u54981-a.png" crc="3941937294" ref="press!"/>
+    <file name="coffee 1-crop-u54984.jpg" crc="4196001909" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u54983-a.png" crc="3941937294" ref="press!"/>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u54975.jpg" crc="4159300313" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u54973-a.png" crc="3941937294" ref="press!"/>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u54989.jpg" crc="4159300313" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u54991-a.png" crc="3941937294" ref="press!"/>
+    <file name="u54968.png" crc="4207531872" ref="press!"/>
+    <file name="u54968-r.png" crc="138204332" ref="press!"/>
+    <file name="u54968-a.png" crc="3779532668" ref="press!"/>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u54970.jpg" crc="4159300313" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u54969-a.png" crc="3817656048" ref="press!"/>
+    <file name="coffee_shop-crop-u55179.jpg" crc="4224826275" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u55181-10.png" crc="3966354105" ref="press!"/>
+    <file name="peace-coffee-c-fr-mtpmcg312-sm-5067-crop-u55183.jpg" crc="303602514" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u55185-10.png" crc="3966354105" ref="press!"/>
+    <file name="tumblr_n1rtd69xgv1r308q8o1_1280-crop-u55171.jpg" crc="4214394899" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="download-crop-u55167.jpg" crc="323462445" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u55169-10.png" crc="3966354105" ref="press!"/>
+    <file name="coffee-drop 1-crop-u55152.jpg" crc="215754554" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="coffee 1-crop-u55157.jpg" crc="4196001909" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u55148.jpg" crc="4159300313" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u55162.jpg" crc="4159300313" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u55164-a.png" crc="3941937294" ref="press!"/>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u55143.jpg" crc="4159300313" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="ac4927194b216c1f43ac062035e23f2a.jpg" crc="3804577585" seo="true" ref="press!">
+      <caption webpage="press!" alt=""/>
+    </file>
+    <file name="u78282-4.png" crc="3759074206" ref="payment-page"/>
+    <file name="u78288-4.png" crc="3848756203" ref="payment-page"/>
+    <file name="u78294-4.png" crc="286389977" ref="payment-page"/>
+    <file name="u78300-4.png" crc="405828840" ref="payment-page"/>
+    <file name="u78306-4.png" crc="70980289" ref="payment-page"/>
+    <file name="u78272.png" crc="3823441627" ref="payment-page"/>
+    <file name="u78272-m.png" crc="125426591" ref="payment-page"/>
+    <file name="u78309-4.png" crc="475230426" ref="payment-page"/>
+    <file name="u78315-4.png" crc="961764" ref="payment-page"/>
+    <file name="u78350-4.png" crc="479341140" ref="payment-page"/>
+    <file name="u78327-4.png" crc="4076164747" ref="payment-page"/>
+    <file name="u78408.png" crc="3823441627" ref="payment-page"/>
+    <file name="u78408-m.png" crc="125426591" ref="payment-page"/>
+    <file name="u78410-4.png" crc="475230426" ref="payment-page"/>
+    <file name="u78409-4.png" crc="961764" ref="payment-page"/>
+    <file name="u78403-4.png" crc="479341140" ref="payment-page"/>
+    <file name="u78411-4.png" crc="4076164747" ref="payment-page"/>
+    <file name="u78556.png" crc="3823441627" ref="payment-page"/>
+    <file name="u78556-m.png" crc="125426591" ref="payment-page"/>
+    <file name="u78558-4.png" crc="475230426" ref="payment-page"/>
+    <file name="u78557-4.png" crc="961764" ref="payment-page"/>
+    <file name="u78551-4.png" crc="479341140" ref="payment-page"/>
+    <file name="u78559-4.png" crc="4076164747" ref="payment-page"/>
+    <file name="u78514.png" crc="3823441627" ref="payment-page"/>
+    <file name="u78514-m.png" crc="125426591" ref="payment-page"/>
+    <file name="u78522-4.png" crc="475230426" ref="payment-page"/>
+    <file name="u78516-4.png" crc="961764" ref="payment-page"/>
+    <file name="u78521-4.png" crc="479341140" ref="payment-page"/>
+    <file name="u78515-4.png" crc="4076164747" ref="payment-page"/>
+    <file name="checkout.gif" crc="4043201328" seo="true" ref="payment-page">
+      <caption webpage="payment-page" alt=""/>
+    </file>
+    <file name="u78728-4.png" crc="99557539" ref="payment-page"/>
+    <file name="u78779-4.png" crc="390848446" ref="payment-page"/>
+    <file name="u78753-4.png" crc="3826761893" ref="payment-page"/>
+    <file name="u79072-4.png" crc="483910875" ref="payment-page"/>
+    <file name="u79080-4.png" crc="179294501" ref="payment-page"/>
+    <file name="u79086-4.png" crc="4027116659" ref="payment-page"/>
+    <file name="u79049.png" crc="4061781271" ref="payment-page"/>
+    <file name="u79049-r.png" crc="4061781271" ref="payment-page"/>
+    <file name="u78673.png" crc="509851547" ref="payment-page"/>
+    <file name="u78673-r.png" crc="4187030601" ref="payment-page"/>
+    <file name="u78673-m.png" crc="404495555" ref="payment-page"/>
+    <file name="u78673-fs.png" crc="458005374" ref="payment-page"/>
+    <file name="u78681.png" crc="4274698620" ref="payment-page"/>
+    <file name="u78681-ferr.png" crc="433510609" ref="payment-page"/>
+    <file name="depositphotos_38420987-stock-illustration-cartoon-coffee-beans-crop-u59762.jpg" crc="165784372" seo="true" ref="payment-page">
+      <caption webpage="payment-page" alt=""/>
+    </file>
+    <file name="9c3c1adc8563e81b820fb42cc36d5bd1.png" crc="4097626050" seo="true" ref="payment-page:sign!">
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+    </file>
+    <file name="u60117.png" crc="4272020137" ref="payment-page"/>
+    <file name="u60117-ferr.png" crc="4173076476" ref="payment-page"/>
+    <file name="u60109.png" crc="3785132077" ref="payment-page"/>
+    <file name="u60109-ferr.png" crc="4085657086" ref="payment-page"/>
+    <file name="u60114.png" crc="407247206" ref="payment-page"/>
+    <file name="u60114-ferr.png" crc="159902326" ref="payment-page"/>
+    <file name="u78104.png" crc="3897000534" ref="payment-page"/>
+    <file name="u78104-ferr.png" crc="3771623687" ref="payment-page"/>
+    <file name="u78117.png" crc="4081972918" ref="payment-page"/>
+    <file name="u78117-ferr.png" crc="399683089" ref="payment-page"/>
+    <file name="u78199.png" crc="14472726" ref="payment-page"/>
+    <file name="u78199-r.png" crc="4254352469" ref="payment-page"/>
+    <file name="u78198.png" crc="4217552224" ref="payment-page"/>
+    <file name="u78198-r.png" crc="497904667" ref="payment-page"/>
+    <file name="u78195.png" crc="10873491" ref="payment-page"/>
+    <file name="u78195-r.png" crc="4239483518" ref="payment-page"/>
+    <file name="u78208.png" crc="4269449181" ref="payment-page"/>
+    <file name="u78208-m.png" crc="3792375805" ref="payment-page"/>
+    <file name="u78201.png" crc="4245848189" ref="payment-page"/>
+    <file name="u78201-m.png" crc="524020953" ref="payment-page"/>
+    <file name="u78204-4.png" crc="240678770" ref="payment-page"/>
+    <file name="u78193-4.png" crc="277042625" ref="payment-page"/>
+    <file name="signin-up-runnung.gif" crc="226641842" seo="true" ref="sign!">
+      <caption webpage="sign!" alt=""/>
+    </file>
+    <file name="u79698-4.png" crc="3765177118" ref="sign!"/>
+    <file name="the press.png" crc="3994877108" seo="true" ref="sign!">
+      <caption webpage="sign!" alt=""/>
+    </file>
+    <file name="u80125-fs.png" crc="3972647695" ref="sign!"/>
+    <file name="u80123-fse.png" crc="194195352" ref="sign!"/>
+    <file name="u80122-fss.png" crc="4277094059" ref="sign!"/>
+    <file name="u80207-fs.png" crc="3972647695" ref="sign!"/>
+    <file name="u80205-fse.png" crc="194195352" ref="sign!"/>
+    <file name="u80206-fss.png" crc="4277094059" ref="sign!"/>
+    <file name="u80424-fs.png" crc="3972647695" ref="sign!"/>
+    <file name="u80423-fse.png" crc="194195352" ref="sign!"/>
+    <file name="u80425-fss.png" crc="4277094059" ref="sign!"/>
+    <file name="u80253-fs.png" crc="3972647695" ref="sign!"/>
+    <file name="u80252-fse.png" crc="194195352" ref="sign!"/>
+    <file name="u80254-fss.png" crc="4277094059" ref="sign!"/>
+    <file name="u79868-fs.png" crc="3972647695" ref="sign!"/>
+    <file name="u79867-fse.png" crc="194195352" ref="sign!"/>
+    <file name="u79873-fss.png" crc="4277094059" ref="sign!"/>
+    <file name="u79921.png" crc="3918190498" ref="sign!"/>
+    <file name="u79921-r.png" crc="3918190498" ref="sign!"/>
+    <file name="history.gif" crc="3840972811" seo="true" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="709113071.jpg" crc="281597132" seo="true" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="709113067-crop-u81812.jpg" crc="5301778" seo="true" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="fruit-pyramid black.jpg" crc="4017488340" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="2017-07-09 053827 1-crop-u110764.jpg" crc="196226572" seo="true" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="u110762_states-r.png" crc="3980980980" ref="drop!-story---founders"/>
+    <file name="u110759.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110759-r.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110763.png" crc="3918122143" ref="drop!-story---founders"/>
+    <file name="u110763-r.png" crc="4288101575" ref="drop!-story---founders"/>
+    <file name="drawingbean-crop-u81098.jpg" crc="114200125" seo="true" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="2017-07-09 053807 1-crop-u108994.jpg" crc="4110715148" seo="true" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="u110272_states-r.png" crc="3980980980" ref="drop!-story---founders"/>
+    <file name="u110251.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110251-r.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110278.png" crc="524891354" ref="drop!-story---founders"/>
+    <file name="u110278-r.png" crc="428519070" ref="drop!-story---founders"/>
+    <file name="12973335_1159271874092049_2761145060058137559_o-crop-u110818.jpg" crc="198035831" seo="true" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="u110817_states-r.png" crc="3980980980" ref="drop!-story---founders"/>
+    <file name="u110816.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110816-r.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110814.png" crc="4282676923" ref="drop!-story---founders"/>
+    <file name="u110814-r.png" crc="518795715" ref="drop!-story---founders"/>
+    <file name="2017-07-09 053614 1-crop-u110594.jpg" crc="515349287" seo="true" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="u110593_states-r.png" crc="3980980980" ref="drop!-story---founders"/>
+    <file name="u110592.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110592-r.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110590.png" crc="468043853" ref="drop!-story---founders"/>
+    <file name="u110590-r.png" crc="331774175" ref="drop!-story---founders"/>
+    <file name="2017-07-09 053748 1-crop-u110791.jpg" crc="4197986728" seo="true" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="u110789_states-r.png" crc="3980980980" ref="drop!-story---founders"/>
+    <file name="u110787.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110787-r.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110788.png" crc="466048866" ref="drop!-story---founders"/>
+    <file name="u110788-r.png" crc="3769367245" ref="drop!-story---founders"/>
+    <file name="2017-07-09 053842 1-crop-u110651.jpg" crc="429283704" seo="true" ref="drop!-story---founders">
+      <caption webpage="drop!-story---founders" alt=""/>
+    </file>
+    <file name="u110649_states-r.png" crc="3980980980" ref="drop!-story---founders"/>
+    <file name="u110647.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110647-r.png" crc="535786663" ref="drop!-story---founders"/>
+    <file name="u110648.png" crc="3766031102" ref="drop!-story---founders"/>
+    <file name="u110648-r.png" crc="3957858581" ref="drop!-story---founders"/>
+    <file name="u82197.png" crc="3770584710" ref="drop!-ur-ideas"/>
+    <file name="u82197-ferr.png" crc="4186945943" ref="drop!-ur-ideas"/>
+    <file name="idea.gif" crc="47681666" seo="true" ref="drop!-ur-ideas">
+      <caption webpage="drop!-ur-ideas" alt=""/>
+    </file>
+    <file name="drawingbean-crop-u81494.jpg" crc="114200125" seo="true" ref="drop!-ur-ideas">
+      <caption webpage="drop!-ur-ideas" alt=""/>
+    </file>
+    <file name="top 10 uk elections 2015 searches google search trends 2015.png" crc="323456207" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="1498482374_flag-vietnam.png" crc="335436275" seo="true" ref="index:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+    </file>
+    <file name="u97417-4.png" crc="4098843668" ref="index"/>
+    <file name="u98407-4.png" crc="4098843668" ref="index"/>
+    <file name="u98413-4.png" crc="4098843668" ref="index"/>
+    <file name="u98425-4.png" crc="4098843668" ref="index"/>
+    <file name="u98422-4.png" crc="4098843668" ref="index"/>
+    <file name="u98437-4.png" crc="4098843668" ref="index"/>
+    <file name="u98434-4.png" crc="4098843668" ref="index"/>
+    <file name="khuyen-mai.gif" crc="3951078534" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="angry-trout-b-fr-mptmcg611-sm-9291-crop-u99146.jpg" crc="27150810" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cef053db79958d8a4e98cc64de689f06.jpg" crc="3818710696" ref="index:drop!:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u99218.jpg" crc="424693594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="angry-trout-b-fr-mptmcg611-sm-9291-u98926-fr.jpg" crc="3935147781" ref="index"/>
+    <file name="coffee 3.jpg" crc="3925229738" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="coffee-shop-black-and-white-u98920-fr.jpg" crc="17151741" ref="index"/>
+    <file name="u99334-4.png" crc="369298323" ref="index"/>
+    <file name="coffee 2 black and white 2.jpg" crc="4028612460" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="coffee.jpg" crc="390230320" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="coffee 2.jpg" crc="3908073802" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="coffee-u99350-fr.jpg" crc="4129946043" ref="index"/>
+    <file name="coffee 3 mixed 2.jpg" crc="4134247598" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="u99598-6.png" crc="118635188" ref="index"/>
+    <file name="u99854-6.png" crc="4126204195" ref="index"/>
+    <file name="u100101-6.png" crc="3833363222" ref="index"/>
+    <file name="u100545-6.png" crc="3816220068" ref="index"/>
+    <file name="home-runnung.gif" crc="3904081513" seo="true" ref="index:home!-402">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="u113770.png" crc="14472726" ref="index"/>
+    <file name="u113770-r.png" crc="4254352469" ref="index"/>
+    <file name="u113779.png" crc="4217552224" ref="index"/>
+    <file name="u113779-r.png" crc="497904667" ref="index"/>
+    <file name="u113777.png" crc="10873491" ref="index"/>
+    <file name="u113777-r.png" crc="4239483518" ref="index"/>
+    <file name="u113781.png" crc="4269449181" ref="index"/>
+    <file name="u113781-m.png" crc="3792375805" ref="index"/>
+    <file name="u113774.png" crc="4245848189" ref="index"/>
+    <file name="u113774-m.png" crc="524020953" ref="index"/>
+    <file name="u113784-4.png" crc="240678770" ref="index"/>
+    <file name="u113775-4.png" crc="277042625" ref="index"/>
+    <file name="cef053db79958d8a4e98cc64de689f06-u100848-fr.png" crc="3881798170" ref="index"/>
+    <file name="cece1f961b8c8c33466bb2aad603694c-crop-u98705.jpg" crc="326356419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maps.jpg" crc="154284261" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="u98910-4.png" crc="3783153933" ref="index"/>
+    <file name="a4254d3e9f47c6611d11d2f29b5285d7-buttonu101936-fr.png" crc="4107176496" ref="index"/>
+    <file name="pasted-svg-565983x557.svg" crc="4029010022" seo="true" ref="index:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+    </file>
+    <file name="pasted svg 565983x557_poster_.png" crc="4107702809" ref="index:home!-4-việt"/>
+    <file name="u114063.png" crc="14472726" ref="index"/>
+    <file name="u114063-r.png" crc="4254352469" ref="index"/>
+    <file name="u114057.png" crc="4217552224" ref="index"/>
+    <file name="u114057-r.png" crc="497904667" ref="index"/>
+    <file name="u114053.png" crc="10873491" ref="index"/>
+    <file name="u114053-r.png" crc="4239483518" ref="index"/>
+    <file name="u114059.png" crc="4269449181" ref="index"/>
+    <file name="u114059-m.png" crc="3792375805" ref="index"/>
+    <file name="u114067.png" crc="4245848189" ref="index"/>
+    <file name="u114067-m.png" crc="524020953" ref="index"/>
+    <file name="u114062-4.png" crc="240678770" ref="index"/>
+    <file name="u114055-4.png" crc="277042625" ref="index"/>
+    <file name="cake orblack-crop-u86480.jpg" crc="3844618025" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="cake or-crop-u86482.jpg" crc="202603667" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="fruit-pyramidblack-crop-u86487.jpg" crc="3949259938" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="fruit-pyramid-crop-u86485.jpg" crc="3773008266" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="ice creamblack-crop-u86492.jpg" crc="3798987394" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="ice cream-crop-u86490.jpg" crc="3999786165" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="b7976eff7b07e92525c4814239c95d44-crop-u86468.jpg" crc="391541147" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="images895982_hi_nh_11__4_-crop-u86432.jpg" crc="224014319" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="img_1420-crop-u86474.jpg" crc="4023625075" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="mi-bl808_commod_g_20111019182724-crop-u86442.jpg" crc="4170097553" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="starbucksfarm_126176782-crop-u86452.jpg" crc="108659954" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="tc_lrw_panama-208-crop-u86454.jpg" crc="3844279995" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h1_gnmu-crop-u86472.jpg" crc="418393560" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h7_czqg-crop-u86439.jpg" crc="292933910" seo="true" ref="index:home!-402:home!-4-việt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="u86495.png" crc="251691934" ref="index:home!-402:home!-4-việt"/>
+    <file name="u86494.png" crc="251691934" ref="index:home!-402:home!-4-việt"/>
+    <file name="tc_lrw_panama-208-crop-u104638.jpg" crc="211880589" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="img_1420.jpg" crc="49099052" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h4_bdbe-crop-u104634.jpg" crc="389748069" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h5_dhja-crop-u104646.jpg" crc="4174468910" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h7_czqg.jpg" crc="853560" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="b7976eff7b07e92525c4814239c95d44-crop-u104642.jpg" crc="4111607916" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="mi-bl808_commod_g_20111019182724.jpg" crc="100594004" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h1_gnmu.jpg" crc="4248318310" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="images895982_hi_nh_11__4_-crop-u104644.jpg" crc="66552339" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="tc_lrw_panama-20868x45.jpg" crc="4255519332" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="img_142068x45.jpg" crc="3769146030" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="starbucksfarm_12617678268x45.jpg" crc="148067871" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h4_bdbe70x45.jpg" crc="3894112562" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h5_dhja72x45.jpg" crc="4112533319" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h7_czqg70x45.jpg" crc="241788946" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="b7976eff7b07e92525c4814239c95d4468x45.jpg" crc="4251990026" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="mi-bl808_commod_g_2011101918272468x45.jpg" crc="157221861" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="xeds_chum_anh_cong_nong_caphe_daklak_tay_nguyen_h1_gnmu70x45.jpg" crc="4257836958" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="images895982_hi_nh_11__4_60x45.jpg" crc="532091862" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="u104655-6.png" crc="3885760735" ref="drop!"/>
+    <file name="584202625-crop-u104660.jpg" crc="432695147" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="584202625-crop-u104658.jpg" crc="3779468211" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="angry-trout-b-fr-mptmcg611-sm-9291264x197.jpg" crc="4152542048" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="coffee_shop264x176.jpg" crc="105875984" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="cef053db79958d8a4e98cc64de689f06264x176.jpg" crc="3981591025" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="a4254d3e9f47c6611d11d2f29b5285d7264x176.jpg" crc="427159044" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="dsc_2332 costandinos truth coffee roasters cape town b w -crop-u105511.jpg" crc="70305374" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="angry-trout-b-fr-mptmcg611-sm-9291-u105469-fr.png" crc="3792047233" ref="drop!"/>
+    <file name="angry-trout-b-fr-mptmcg611-sm-9291-u105469-r-fr.jpg" crc="456746791" ref="drop!"/>
+    <file name="coffee_shop-u105471-fr.png" crc="189126013" ref="drop!"/>
+    <file name="coffee_shop-u105471-r-fr.jpg" crc="3964230159" ref="drop!"/>
+    <file name="peace-coffee-c-fr-mtpmcg312-sm-5067-u105473-fr.png" crc="3980191572" ref="drop!"/>
+    <file name="peace-coffee-c-fr-mtpmcg312-sm-5067-u105473-r-fr.jpg" crc="3796399340" ref="drop!"/>
+    <file name="download-u105472-fr.png" crc="536394551" ref="drop!"/>
+    <file name="download-u105472-r-fr.jpg" crc="136852113" ref="drop!"/>
+    <file name="cef053db79958d8a4e98cc64de689f06-u105468-fr.png" crc="3886455361" ref="drop!"/>
+    <file name="cef053db79958d8a4e98cc64de689f06-u105468-r-fr.jpg" crc="419272804" ref="drop!"/>
+    <file name="bw-room-u105470-fr.png" crc="438532617" ref="drop!"/>
+    <file name="bw-room-u105470-r-fr.jpg" crc="190982756" ref="drop!"/>
+    <file name="coffee_shop.jpg" crc="4071599732" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="peace-coffee-c-fr-mtpmcg312-sm-5067.jpg" crc="3903448204" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="download.jpg" crc="157635165" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="bw-room.jpg" crc="425842292" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="about.gif" crc="3818219003" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="drawingbean-crop-u104590.jpg" crc="114200125" seo="true" ref="drop!">
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="angry-trout-b-fr-mptmcg611-sm-9291-crop-u106379.jpg" crc="27150810" seo="true" ref="home!-402">
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="u106378-11.png" crc="4095926027" ref="home!-402"/>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u106342.jpg" crc="424693594" seo="true" ref="home!-402">
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u106335.jpg" crc="424693594" seo="true" ref="home!-402">
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u106331.jpg" crc="424693594" seo="true" ref="home!-402">
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u106327.jpg" crc="424693594" seo="true" ref="home!-402">
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u106338.jpg" crc="424693594" seo="true" ref="home!-402">
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="u106424-4.png" crc="369298323" ref="home!-402"/>
+    <file name="u106295-6.png" crc="118635188" ref="home!-402"/>
+    <file name="u106274-6.png" crc="4126204195" ref="home!-402"/>
+    <file name="u106315-6.png" crc="3833363222" ref="home!-402"/>
+    <file name="u106259-6.png" crc="3816220068" ref="home!-402"/>
+    <file name="u106183-4.png" crc="4098843668" ref="home!-402"/>
+    <file name="u106187-4.png" crc="4098843668" ref="home!-402"/>
+    <file name="u106186-4.png" crc="4098843668" ref="home!-402"/>
+    <file name="u106189-4.png" crc="4098843668" ref="home!-402"/>
+    <file name="u106184-4.png" crc="4098843668" ref="home!-402"/>
+    <file name="u106185-4.png" crc="4098843668" ref="home!-402"/>
+    <file name="u106188-4.png" crc="4098843668" ref="home!-402"/>
+    <file name="cece1f961b8c8c33466bb2aad603694c-crop-u106449.jpg" crc="326356419" seo="true" ref="home!-402">
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="u106476-5.png" crc="163439443" ref="home!-402"/>
+    <file name="u106225-4.png" crc="3987539190" ref="home!-402"/>
+    <file name="u106235-4.png" crc="3783153933" ref="home!-402"/>
+    <file name="a4254d3e9f47c6611d11d2f29b5285d7.jpg" crc="353034679" ref="home!-402">
+      <caption webpage="home!-402" alt=""/>
+      <caption webpage="home!-402" alt=""/>
+    </file>
+    <file name="u112705-4.png" crc="4098843668" ref="home!-4-việt"/>
+    <file name="u112707-4.png" crc="4098843668" ref="home!-4-việt"/>
+    <file name="u112706-4.png" crc="4098843668" ref="home!-4-việt"/>
+    <file name="u112703-4.png" crc="4098843668" ref="home!-4-việt"/>
+    <file name="u112704-4.png" crc="4098843668" ref="home!-4-việt"/>
+    <file name="u112702-4.png" crc="4098843668" ref="home!-4-việt"/>
+    <file name="u112701-4.png" crc="4098843668" ref="home!-4-việt"/>
+    <file name="angry-trout-b-fr-mptmcg611-sm-9291-crop-u112630.jpg" crc="27150810" seo="true" ref="home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+    </file>
+    <file name="u112629-9.png" crc="3829761484" ref="home!-4-việt"/>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u112577.jpg" crc="424693594" seo="true" ref="home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u112568.jpg" crc="424693594" seo="true" ref="home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u112564.jpg" crc="424693594" seo="true" ref="home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u112561.jpg" crc="424693594" seo="true" ref="home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u112573.jpg" crc="424693594" seo="true" ref="home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+    </file>
+    <file name="u112539-4.png" crc="369298323" ref="home!-4-việt"/>
+    <file name="u112496-6.png" crc="118635188" ref="home!-4-việt"/>
+    <file name="u112484-6.png" crc="4126204195" ref="home!-4-việt"/>
+    <file name="u112461-6.png" crc="3833363222" ref="home!-4-việt"/>
+    <file name="u112518-6.png" crc="3816220068" ref="home!-4-việt"/>
+    <file name="trang-chủ.gif" crc="428000717" seo="true" ref="home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+    </file>
+    <file name="u113870.png" crc="14472726" ref="home!-4-việt"/>
+    <file name="u113870-r.png" crc="4254352469" ref="home!-4-việt"/>
+    <file name="u113876.png" crc="4217552224" ref="home!-4-việt"/>
+    <file name="u113876-r.png" crc="497904667" ref="home!-4-việt"/>
+    <file name="u113874.png" crc="10873491" ref="home!-4-việt"/>
+    <file name="u113874-r.png" crc="4239483518" ref="home!-4-việt"/>
+    <file name="u113864.png" crc="4269449181" ref="home!-4-việt"/>
+    <file name="u113864-m.png" crc="3792375805" ref="home!-4-việt"/>
+    <file name="u113869.png" crc="4245848189" ref="home!-4-việt"/>
+    <file name="u113869-m.png" crc="524020953" ref="home!-4-việt"/>
+    <file name="u113872-4.png" crc="240678770" ref="home!-4-việt"/>
+    <file name="u113865-4.png" crc="277042625" ref="home!-4-việt"/>
+    <file name="cece1f961b8c8c33466bb2aad603694c-crop-u112660.jpg" crc="326356419" seo="true" ref="home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+    </file>
+    <file name="u112683-6.png" crc="3850717505" ref="home!-4-việt"/>
+    <file name="u112640-5.png" crc="163439443" ref="home!-4-việt"/>
+    <file name="u112419-4.png" crc="3987539190" ref="home!-4-việt"/>
+    <file name="u112440-4.png" crc="3801359420" ref="home!-4-việt"/>
+    <file name="u113960.png" crc="14472726" ref="home!-4-việt"/>
+    <file name="u113960-r.png" crc="4254352469" ref="home!-4-việt"/>
+    <file name="u113959.png" crc="4217552224" ref="home!-4-việt"/>
+    <file name="u113959-r.png" crc="497904667" ref="home!-4-việt"/>
+    <file name="u113957.png" crc="10873491" ref="home!-4-việt"/>
+    <file name="u113957-r.png" crc="4239483518" ref="home!-4-việt"/>
+    <file name="u113950.png" crc="4269449181" ref="home!-4-việt"/>
+    <file name="u113950-m.png" crc="3792375805" ref="home!-4-việt"/>
+    <file name="u113954.png" crc="4245848189" ref="home!-4-việt"/>
+    <file name="u113954-m.png" crc="524020953" ref="home!-4-việt"/>
+    <file name="u113946-4.png" crc="240678770" ref="home!-4-việt"/>
+    <file name="u113945-4.png" crc="277042625" ref="home!-4-việt"/>
+    <file name="19911640_563861417336518_379998017_o.png" crc="188104781" seo="true" ref="phone>index:phone>sign!:phone>drop!:phone>drop!-story:phone>drop!-your-ideas:phone>coffee!:phone>payment-page:phone>press!:coffee!:press!:payment-page:sign!:drop!-story---founders:drop!-ur-ideas:index:drop!:home!-4-việt">
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="home!-4-việt" alt=""/>
+      <caption webpage="payment-page" alt=""/>
+      <caption webpage="drop!-story" alt=""/>
+      <caption webpage="drop!-story---founders" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="sign!" alt=""/>
+      <caption webpage="drop!-your-ideas" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="drop!-ur-ideas" alt=""/>
+      <caption webpage="coffee!" alt=""/>
+      <caption webpage="press!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+      <caption webpage="drop!" alt=""/>
+    </file>
+    <file name="ihr_qr_code_ohne_logo.jpg" crc="479955384" seo="true" ref="sign!:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="sign!" alt=""/>
+    </file>
+    <file name="pasted svg 565093x556_poster_.png" crc="257702126" ref="home!-402"/>
+    <file name="angry-trout-b-fr-mptmcg611-sm-9291-u106348-fr.jpg" crc="3935147781" ref="home!-402:home!-4-việt"/>
+    <file name="coffee-shop-black-and-white-u106360-fr.jpg" crc="17151741" ref="home!-402:home!-4-việt"/>
+    <file name="coffee-u106404-fr.jpg" crc="4129946043" ref="home!-402:home!-4-việt"/>
+    <file name="cef053db79958d8a4e98cc64de689f06-u106177-fr.png" crc="3881798170" ref="home!-402:home!-4-việt"/>
+    <file name="a4254d3e9f47c6611d11d2f29b5285d7-buttonu112427-fr.png" crc="4107176496" ref="home!-4-việt"/>
+    <file name="starbucksfarm_126176782-u79050-fr.jpg" crc="235289981" ref="payment-page"/>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u120795.jpg" crc="424693594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u120805.jpg" crc="424693594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u120815.jpg" crc="424693594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32267-fx-8-0-4-0-0-0-crop-u120825.jpg" crc="424693594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_c-master.css" crc="514755083" ref="phone>press!:phone>drop!-story:phone>drop!-your-ideas:phone>sign!:phone>drop!:phone>payment-page:phone>coffee!"/>
+      <file name="press_.css" crc="103787401" ref="phone>press!"/>
+      <file name="iefonts_press_.css" crc="13549786" ref="phone>press!"/>
+      <file name="index.css" crc="3914097210" ref="phone>index"/>
+      <file name="drop_-story.css" crc="3937526254" ref="phone>drop!-story"/>
+      <file name="iefonts_drop_-story.css" crc="338296226" ref="phone>drop!-story"/>
+      <file name="black---white-viet.css" crc="62426684" ref="phone>black---white-viet"/>
+      <file name="drop_-your-ideas.css" crc="438650650" ref="phone>drop!-your-ideas"/>
+      <file name="iefonts_drop_-your-ideas.css" crc="4064635616" ref="phone>drop!-your-ideas"/>
+      <file name="sign_.css" crc="392499490" ref="phone>sign!"/>
+      <file name="iefonts_sign_.css" crc="4238121524" ref="phone>sign!"/>
+      <file name="black---white-viet-copy.css" crc="62426684" ref="phone>black---white-viet-copy"/>
+      <file name="drop_.css" crc="4284416446" ref="phone>drop!"/>
+      <file name="iefonts_drop_.css" crc="4064635616" ref="phone>drop!"/>
+      <file name="payment-page.css" crc="258408029" ref="phone>payment-page"/>
+      <file name="iefonts_payment-page.css" crc="4093969819" ref="phone>payment-page"/>
+      <file name="coffee_.css" crc="3975736614" ref="phone>coffee!"/>
+    </folder>
+    <file name="index.html" crc="228412821" seo="true" mt="1499783378117" redirect="true"/>
+    <file name="black---white-viet.html" crc="4006372530" seo="true" mt="1498575309327" redirect="false"/>
+    <file name="black---white-viet-copy.html" crc="3910294519" seo="true" mt="1498575316953" redirect="false"/>
+    <file name="sign!.html" crc="4202798770" seo="true" mt="1499751440230" redirect="true"/>
+    <file name="drop!.html" crc="311871177" seo="true" mt="1499706551455" redirect="true"/>
+    <file name="drop!-story.html" crc="3774050511" seo="true" mt="1499706551455" redirect="true"/>
+    <file name="drop!-your-ideas.html" crc="375337658" seo="true" mt="1499706551455" redirect="true"/>
+    <file name="coffee!.html" crc="423787131" seo="true" mt="1499706551455" redirect="true"/>
+    <file name="payment-page.html" crc="392567041" seo="true" mt="1499706551455" redirect="true"/>
+    <file name="press!.html" crc="138111746" seo="true" mt="1499706551455" redirect="true"/>
+  </folder>
+  <file name="coffee!.html" crc="3919962702" seo="true" mt="1499783802979" redirect="true"/>
+  <file name="press!.html" crc="4107333813" seo="true" mt="1499751444005" redirect="true"/>
+  <file name="payment-page.html" crc="16750436" seo="true" mt="1499784226561" redirect="true"/>
+  <file name="sign!.html" crc="232033560" seo="true" mt="1499751447369" redirect="true"/>
+  <file name="drop!-story---founders.html" crc="345254629" seo="true" mt="1499706669487" redirect="true"/>
+  <file name="drop!-ur-ideas.html" crc="4116286911" seo="true" mt="1499706669487" redirect="true"/>
+  <file name="index.html" crc="331665172" seo="true" mt="1499784637192" redirect="true"/>
+  <file name="drop!.html" crc="4159849698" seo="true" mt="1499706669487" redirect="true"/>
+  <file name="home!-402.html" crc="4242138937" seo="true" mt="1499783355207" redirect="true"/>
+  <file name="home!-4-việt.html" crc="431722284" seo="true" mt="1499783355049" redirect="true"/>
+</manifest>
